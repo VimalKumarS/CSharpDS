@@ -1,0 +1,14 @@
+Link list - Add delete find , single double
+Stack - using link list, array
+Queue - linklist - Array - priority queue
+Binary tree- Adding finding removing traveral - pre/inorder/post
+Hash table - adding searching removing handling collision / growing table / Enumerating
+
+Sorting - Bubble / insretion / selection/ Merge / quick 
+
+Set class - union/ intersection / difference / symmetric diff
+
+AVL Tree - Binary / AVL tree / Unbalanced / balanced tree / Insertion / deletion / 
+AVL tree rotation 
+
+String searching  - Naive search / Boyer-Moore-horspol search  / Search replace
